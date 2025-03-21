@@ -1,6 +1,10 @@
 # podujatia
 Repozitár materiálov a prezentácii z HackNitra podujatí
 
+## 20.3.2025 - Rýchlokurz o AI a využití v digitálnom marketingu 
+
+- [Laura Probstnerová - AI v digitálnom marketingu](https://www.figma.com/slides/0Yi8LidrFigXkiEzB2npfm/AI-v-Digit%C3%A1lnom-Marketingu?node-id=6-342&t=VroHBBOPB4vwGr95-1)
+
 ## 28.11.2024 - Rýchlokurz o ChatGPT a komunitný chillout 🍻
 - [Jakub Žitný - Rýchlokurz o ChatGPT - história, princípy, tipy a triky, alternatívy](https://www.canva.com/design/DAGXwgqrMs8/39JlXustC_lw7F9VXW9gyQ/edit?utm_content=DAGXwgqrMs8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
